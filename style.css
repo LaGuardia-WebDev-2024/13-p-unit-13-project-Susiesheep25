@@ -20,3 +20,20 @@ hr {
   height: 5px;
   background-color: black;
 }
+
+h1:hover{
+  background-color: rgb(78, 229, 237);
+  color: rgb(71, 16, 92);
+  border: 5px solid;
+  
+}
+
+h1{
+  border: 5px dotted;
+  font-style: Italic ;
+  Font-size : 50px;
+}
+
+label{
+  background: yellow;
+}
